@@ -1,4 +1,4 @@
-**When you can’t call for help, Lifeline calls for you.**'
+**When you can’t call for help, Lifeline calls for you.**
 
 Lifeline is an AI-powered **voice-based emergency detection system** that listens for signs of distress and automatically alerts a trusted contact. Instead of relying on the user to press a panic button, Lifeline detects emergencies through spoken context and responds autonomously.
 
